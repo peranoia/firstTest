@@ -1,0 +1,2217 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"bac",
+				"background-image\tproperty"
+			],
+			[
+				"ani",
+				"animation-fill-mode\tproperty"
+			],
+			[
+				"anid",
+				"animation-duration\tproperty"
+			],
+			[
+				"mar",
+				"margin-left\tproperty"
+			],
+			[
+				"ov",
+				"overflow-x\tproperty"
+			],
+			[
+				"coun",
+				"counter"
+			],
+			[
+				"c",
+				"contains\t( other: Node ): boolean Node"
+			],
+			[
+				"cou",
+				"counter"
+			],
+			[
+				"imgc",
+				"imgCounterR"
+			],
+			[
+				"lef",
+				"leftSlide"
+			],
+			[
+				"rig",
+				"rightSlide"
+			],
+			[
+				"set",
+				"setInterval\t( handler: any, timeout?: long, arguments_..: any ): long Window"
+			],
+			[
+				"h",
+				"Hero03.jpg\tw:1920 h:1280"
+			],
+			[
+				"lista",
+				"listaIMGBG"
+			],
+			[
+				"setT",
+				"setTimeout\t( handler: any, timeout?: long, arguments_..: any ): long Window"
+			],
+			[
+				"img",
+				"background-image\tproperty"
+			],
+			[
+				"brc",
+				"border-color\tproperty"
+			],
+			[
+				"border-col",
+				"border-color\tproperty"
+			],
+			[
+				"and",
+				"animation-direction\tproperty"
+			],
+			[
+				"e",
+				"ease-in-out\tanimation-timing-function"
+			],
+			[
+				"anim",
+				"animation-timing-function\tproperty"
+			],
+			[
+				"animn",
+				"animation-iteration-count\tproperty"
+			],
+			[
+				"opc",
+				"opcionesSubmenu"
+			],
+			[
+				"cono",
+				"console_log"
+			],
+			[
+				"num",
+				"numberTab"
+			],
+			[
+				"conso",
+				"console_log"
+			],
+			[
+				"cla",
+				"classList\t: DOMTokenList Element"
+			],
+			[
+				"curren",
+				"currentTarget"
+			],
+			[
+				"su",
+				"submenuCarta"
+			],
+			[
+				"bor",
+				"border-color\tproperty"
+			],
+			[
+				"bb",
+				"border-bottom-width\tproperty"
+			],
+			[
+				"tra",
+				"transition-duration\tproperty"
+			],
+			[
+				"remoe",
+				"remove\t(): void Element"
+			],
+			[
+				"getid",
+				"getElementById"
+			],
+			[
+				"docu",
+				"document\t: Document Window"
+			],
+			[
+				"chil",
+				"childNodes\t: NodeList Node"
+			],
+			[
+				"cont",
+				"contenedor"
+			],
+			[
+				"le",
+				"length\t: int Array"
+			],
+			[
+				"getc",
+				"getElementsByClassName"
+			],
+			[
+				"gei",
+				"getElementById"
+			],
+			[
+				"bl",
+				"block"
+			],
+			[
+				"a",
+				"animation-duration\tproperty"
+			],
+			[
+				"tr",
+				"transform\tproperty"
+			],
+			[
+				"add",
+				"addEventListener"
+			],
+			[
+				"in",
+				"indexOf\t( searchString: string, position?: int ): int String"
+			],
+			[
+				"con",
+				"console.log"
+			],
+			[
+				"conlo",
+				"console.log"
+			],
+			[
+				"border",
+				"border-radius\tproperty"
+			],
+			[
+				"onc",
+				"onclick\tAttr"
+			],
+			[
+				"st",
+				"style\t Style CSS"
+			],
+			[
+				"gete",
+				"getElementById\t( elementId: DOMString ): Element Document"
+			],
+			[
+				"close",
+				"closeLightbox"
+			],
+			[
+				"cons",
+				"console_log"
+			],
+			[
+				"nume",
+				"numeroIMG"
+			],
+			[
+				"nu",
+				"numeroIMG"
+			],
+			[
+				"doc",
+				"document\t: Document Window"
+			],
+			[
+				"bra",
+				"border-radius\tproperty"
+			],
+			[
+				"curr",
+				"currentScrollPos"
+			],
+			[
+				"pos",
+				"posActual"
+			],
+			[
+				"el",
+				"else"
+			],
+			[
+				"r",
+				"required\tAttr"
+			],
+			[
+				"co",
+				"correo"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"d",
+				"document"
+			],
+			[
+				"rg",
+				"rgba()\tbackground-color"
+			],
+			[
+				"ls",
+				"list-style\tproperty"
+			],
+			[
+				"o",
+				"opacity\tproperty"
+			],
+			[
+				"AN",
+				"animation-delay\tproperty"
+			],
+			[
+				"an",
+				"animation-duration\tproperty"
+			],
+			[
+				"anima",
+				"animation-name\tproperty"
+			],
+			[
+				"trans",
+				"transition-property\tproperty"
+			],
+			[
+				"ba",
+				"background-color\tproperty"
+			],
+			[
+				"bz",
+				"box-sizing\tproperty"
+			],
+			[
+				"i",
+				"inline\tdisplay"
+			],
+			[
+				"ge",
+				"gettingZoom"
+			],
+			[
+				"pt",
+				"pt-5\t bootstrap.min.css"
+			],
+			[
+				"me",
+				"megaArray"
+			],
+			[
+				"ar",
+				"arrayTemp"
+			],
+			[
+				"lev",
+				"level2Content"
+			],
+			[
+				"pa",
+				"parentContent"
+			],
+			[
+				"t",
+				"tempp"
+			],
+			[
+				"p",
+				"push"
+			],
+			[
+				"for",
+				"for\tfor (…) {…}"
+			],
+			[
+				"info",
+				"info0"
+			],
+			[
+				"capas",
+				"capas2"
+			],
+			[
+				"inf",
+				"info0"
+			],
+			[
+				"layer",
+				"layerList"
+			],
+			[
+				"new",
+				"newHtmlContent"
+			],
+			[
+				"html",
+				"htmlContent"
+			],
+			[
+				"m",
+				"max-width\tproperty"
+			],
+			[
+				"inl",
+				"inline-block\tdisplay"
+			],
+			[
+				"po",
+				"pos-r\tposition: relative;"
+			],
+			[
+				"fo",
+				"footer\tTag"
+			],
+			[
+				"trd",
+				"transition-delay\tproperty"
+			],
+			[
+				"bord",
+				"border-color\tproperty"
+			],
+			[
+				"bo",
+				"border-radius\tproperty"
+			],
+			[
+				"dis",
+				"display-1 \tBootstrap 4.4"
+			],
+			[
+				"bg-",
+				"bg-success \tBootstrap 4.4"
+			],
+			[
+				"obj",
+				"object-fit\tproperty"
+			],
+			[
+				"sca",
+				"scaleData"
+			],
+			[
+				"ima",
+				"imagesReadyToParallax"
+			],
+			[
+				"imag",
+				"imageRect"
+			],
+			[
+				"s",
+				"scrollTop"
+			],
+			[
+				"l",
+				"log"
+			],
+			[
+				"im",
+				"imageReadyToParallax"
+			],
+			[
+				"image",
+				"imagesReadyToParallax"
+			],
+			[
+				"scr",
+				"scrollTop"
+			],
+			[
+				"G",
+				"getElementById"
+			],
+			[
+				"cl",
+				"cl-b\tclear: both;"
+			],
+			[
+				"tran",
+				"transform"
+			],
+			[
+				"text",
+				"text-align\tproperty"
+			],
+			[
+				"trt",
+				"trf-tz\ttransform: translateZ(${1:z});"
+			],
+			[
+				"max",
+				"max-height\tproperty"
+			],
+			[
+				"overf",
+				"overflow-y\tproperty"
+			],
+			[
+				"ovy",
+				"ovy-s\toverflow-y: scroll;"
+			],
+			[
+				"w",
+				"width\tproperty"
+			],
+			[
+				"ob",
+				"object-fit\tproperty"
+			],
+			[
+				"mx",
+				"mx-auto \tBootstrap 4.4"
+			],
+			[
+				"bg-d",
+				"bg-secondary \tBootstrap 4.4"
+			],
+			[
+				"op",
+				"opacity\tproperty"
+			],
+			[
+				"mt",
+				"margin-top\tproperty"
+			],
+			[
+				"td",
+				"td\ttext-decoration: ${1:none};"
+			],
+			[
+				"mb",
+				"mb-a\tmargin-bottom: auto;"
+			],
+			[
+				"head",
+				"header\tTag"
+			],
+			[
+				"pl",
+				"planLletraP\t Style.css"
+			],
+			[
+				"b",
+				"botonPlan\t Style.css"
+			],
+			[
+				"mw",
+				"min-width\tproperty"
+			],
+			[
+				"tex",
+				"text-decoration\tproperty"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n\t<meta charset=\"UTF-8\">\n\t<meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n\t<title>Nostromo</title>\n\t<link rel=\"stylesheet\" href=\"CSS/Style.css\">\n\t<link rel=\"preconnect\" href=\"https://fonts.gstatic.com\">\n\t\n\t<!-- Fuentes -->\n\t<!-- Roboto -->\n\t<link href=\"https://fonts.googleapis.com/css2?family=Roboto&display=swap\" rel=\"stylesheet\"> \n\t<!-- Niconne -->\n\t<link rel=\"preconnect\" href=\"https://fonts.gstatic.com\">\n\t<link href=\"https://fonts.googleapis.com/css2?family=Niconne&display=swap\" rel=\"stylesheet\"> \n\n\n</head>\n<body>\n\n\t<header id=\"encabezado\">\n\t\n\t\t<nav>\n\n\t\t\t<a href=\"Index.html\">\n\t\t\t\t<div id=\"logo\"></div>\n\t\t\t</a>\n\t\t\t<ul id=\"menu\">\n\t\t\t\t\n\t\t\t\t<li class=\"elementoMenu\"><a href=\"#encabezado\">Inicio</a></li>\n\t\t\t\t<li class=\"elementoMenu\"><a href=\"#filosofia\">Filosofía</a></li>\n\t\t\t\t<li class=\"elementoMenu\"><a href=\"#carta\">Carta</a></li>\n\t\t\t\t<li class=\"elementoMenu\"><a href=\"#galeria\">Galería</a></li>\n\t\t\t\t<li class=\"elementoMenu\"><a href=\"#contacto\">Contacto</a></li>\n\t\t\t\t\n\t\t\t</ul>\n\t\t</nav>\n\n\n\t\t<h1 id=\"tituloEncabezado\">Nostromo</h1>\n\t\t<h2 id=\"subtituloEncabezado\">El placer de comer bien</h2>\n\n\t</header>\n\n\t<section id=\"filosofia\">\n\n\t\t<h2 class=\"tituloSeccion\">Filosofía</h2>\n\t\t<div id=\"contenedorFilo\">\n\t\t\t\n\t\t\t<div class=\"colFilo\">\n\t\t\t\t<div id=\"videoFilo\"></div>\n\t\t\t</div>\n\t\t\t<div class=\"colFilo\">\n\t\t\t\t<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum</p>\n\t\t\t</div>\n\n\t\t</div>\n\t</section>\n\n\n\n\n\n\t<section id=\"carta\">\n\t\t\n\t\t<h2 class=\"tituloSeccion titulosBlanco\" >Carta</h2>\n\n\t\t<div id=\"contenedorEtiquetaPestanas\">\n\t\t\t\n\t\t\t<p class=\"etiquetaPestanas pestanaActiva\">Primeros</p>\n\t\t\t<p class=\"etiquetaPestanas\">Segundos</p>\n\t\t\t<p class=\"etiquetaPestanas\">Postres</p>\n\t\t</div>\n\n\t\t<div id=\"contenedorPestana\">\n\t\t\t\n\t\t\t<div class=\"plato\">\n\t\t\t\t<div class=\"imagenPlato\"></div>\n\t\t\t\t<p class=\"nombrePlato\">Nombre del plato</p>\n\t\t\t\t<p class=\"precio\">Precio</p>\n\t\t\t</div>\n\t\t\t<div class=\"plato\">\n\t\t\t\t<div class=\"imagenPlato\"></div>\n\t\t\t\t<p class=\"nombrePlato\">Nombre del plato</p>\n\t\t\t\t<p class=\"precio\">Precio</p>\n\t\t\t</div>\n\t\t\t<div class=\"plato\">\n\t\t\t\t<div class=\"imagenPlato\"></div>\n\t\t\t\t<p class=\"nombrePlato\">Nombre del plato</p>\n\t\t\t\t<p class=\"precio\">Precio</p>\n\t\t\t</div>\n\t\t\t<div class=\"plato\">\n\t\t\t\t<div class=\"imagenPlato\"></div>\n\t\t\t\t<p class=\"nombrePlato\">Nombre del plato</p>\n\t\t\t\t<p class=\"precio\">Precio</p>\n\t\t\t</div>\n\t\t\t<div class=\"plato\">\n\t\t\t\t<div class=\"imagenPlato\"></div>\n\t\t\t\t<p class=\"nombrePlato\">Nombre del plato</p>\n\t\t\t\t<p class=\"precio\">Precio</p>\n\t\t\t</div>\n\t\t\t<div class=\"plato\">\n\t\t\t\t<div class=\"imagenPlato\"></div>\n\t\t\t\t<p class=\"nombrePlato\">Nombre del plato</p>\n\t\t\t\t<p class=\"precio\">Precio</p>\n\t\t\t</div>\n\n\t\t\n\t\t</div>\n\t</section>\n\n\n\t<section id=\"galeria\">\n\t\t\n\t\t<h2 class=\"tituloSeccion\">Galería</h2>\n\n\t\t<div id=\"contenedorGaleria\">\n\t\t\t\n\t\t\t<div class=\"imgGal\"></div>\n\t\t\t<div class=\"imgGal\"></div>\n\t\t\t<div class=\"imgGal\"></div>\n\t\t\t<div class=\"imgGal\"></div>\n\t\t\t<div class=\"imgGal\"></div>\n\t\t\t<div class=\"imgGal\"></div>\n\t\t\t<div class=\"imgGal\"></div>\n\t\t\t<div class=\"imgGal\"></div>\n\t\t\t<div class=\"imgGal\"></div>\n\t\t\t<div class=\"imgGal\"></div>\n\t\t\t<div class=\"imgGal\"></div>\n\t\t\t<div class=\"imgGal\"></div>\n\n\n\t\t</div>\n\n\n\t</section>\n\t<section id=\"contacto\">\n\t\t\n\t\t<h2 class=\"tituloSeccion titulosBlanco\" >Contacto</h2>\n\n\t\t<div id=\"contenedorContacto\">\n\t\t\t<iframe id=\"map\" src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2991.8989147870425!2d2.1703407051117107!3d41.41971294279111!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x12a4a2ccbb32fbd5%3A0xf8d0febe8ebd961a!2sEscuela%20P%C3%BAblica%20Parque%20del%20Guinard%C3%B3!5e0!3m2!1ses!2ses!4v1613953069293!5m2!1ses!2ses\" width=\"600\" height=\"525\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\"></iframe>\n\t\t\t\n\t\t\t<form action=\"\" id=\"formu\">\n\n\t\t\t\t<p id=\"textoReservas\">Reservas:</p>\n\t\t\t\t\n\t\t\t\t<input type=\"text\" name=\"Nombre\" placeholder=\"Nombre y Apellidos\">\n\n\t\t\t\t<input type=\"number\" name=\"numero\" placeholder=\"Número de personas\">\n\n\t\t\t\t<input type=\"date\" name=\"fecha\" placeholder=\"Fecha\">\n\t\t\t\t\t\t\n\t\t\t\t<input type=\"email\" name=\"correo\" placeholder=\"Correo\">\n\n\t\t\t\t<input id=\"botonEnviar\" type=\"submit\" value=\"Enviar\">\n\n\t\t\t</form>\n\n\t\t</div>\n\n\n\t</section>\n\t<footer id=\"pie\">\n\t\t\n\t\t\n\t</footer>\n\n</body>\n</html>",
+			"file": "Index.html",
+			"file_size": 4848,
+			"file_write_time": 132585998320000000,
+			"settings":
+			{
+				"buffer_size": 4626,
+				"line_ending": "Windows"
+			},
+			"undo_stack":
+			[
+				[
+					3,
+					2,
+					"right_delete",
+					null,
+					"AgAAAGQCAAAAAAAAZAIAAAAAAAAtAAAACQoJCTwhLS0gQXF1w60gZW1waWV6YSBlbCBtZW51IGhvcml6b250YWwgLS0+ZAIAAAAAAABkAgAAAAAAAAEAAAAK",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAACQAgAAAAAAAGQCAAAAAAAAAAAAAAAA8L8"
+				]
+			]
+		},
+		{
+			"contents": "/*esto es el reset inicial*/\n\n*{\n\tmargin: 0;\n\tpadding: 0;\n\tbox-sizing: border-box;\n}\n\n\n#encabezado {\n\theight: 1000px;\n\twidth: 100%;\n\tbackground-color: lightgrey;\n}\nnav {\n\twidth: 100%;\n\theight: 150px;\n\toverflow: hidden;\n\tposition: fixed;\n\tz-index: 1;\n}\n#logo{\n\twidth: 179px;\n\theight: 104px;\n\tbackground-color: grey;\n\tfloat: left;\n\tdisplay: block;\n\tmargin-left: 100px;\n\tmargin-top: 22px;\n}\n#menu {\n\tlist-style-type: none;\n\twidth: auto;\n\toverflow: hidden;\n\tfloat: right;\n\tmargin-right: 75px;\n}\n.elementoMenu{\n\tfloat: left;\n\tmargin: 0px 25px;\n\t/*background-color: yellow;*/\n\tline-height: 150px;\n}\n.elementoMenu>a {\n\tfont-family: 'Roboto', sans-serif;\n\tcolor: white;\n\ttext-decoration: none;\n\t/*display: block;*/\n\tfont-size: 2rem;\n}\n#tituloEncabezado {\n\n\tfont-size: 16.5rem;\n\t/*background-color: orange;*/\n\ttext-align: center;\n\tposition: relative;\n\ttop: 215px;\n\tfont-family: 'Niconne', cursive;\n\tcolor: white;\n\ttext-shadow: 1px 9px 5px rgba(0,0,0,0.57);\n\tfont-weight: normal;\n}\n#subtituloEncabezado {\n\n\tfont-size: 4.5rem;\n\t/*background-color: olive;*/\n\ttext-align: center;\n\tposition: relative;\n\ttop: 160px;\n\tfont-family: 'Niconne', cursive;\n\tcolor: white;\n\ttext-shadow: 1px 9px 5px rgba(0,0,0,0.57);\n\tfont-weight: normal;\n}\n\n/*aquí se acaba el header*/\n\n\n#filosofia {\n\n\twidth: 100%;\n\theight: 950px;\n\tbackground-color: #FEE2B3;\n\toverflow: hidden;\n}\n\n.tituloSeccion {\n\n\tfont-family: 'Niconne', cursive;\n\tfont-size: 5rem;\n\tfont-weight: normal;\n\t/*background-color: olive;*/\n\ttext-align: center;\n\tmargin-top: 200px;\n\n}\n\n#contenedorFilo {\n\n\twidth: 1200px;\n\theight: 500px;\n\tmargin-left: auto;\n\tmargin-right: auto;\n\t/*background-color: yellow;*/\n\tmargin-top: 150px;\n\toverflow: hidden;\n}\n\n.colFilo{\n\n\twidth: 50%;\n\theight: 500px;\n\t/*background-color: orange;*/\n\t/*border-style: solid;*/\n\tfloat: left;\n}\n\n#videoFilo {\n\n\twidth: calc(100% - 75px);\n\tbackground-color: lightblue;\n\theight: 300px;\n\tmargin-right: 75px;\n}\n\n.colFilo >p {\n\tfont-family: 'Roboto', sans-serif;\n\tfont-size: 1.25rem;\n\tpadding-left: 75px;\n\tline-height: 1.75;\n\n}\n\n#carta {\n\n\twidth: 100%;\n\theight: 1210px;\n\tbackground-color: black;\n\toverflow: hidden;\n}\n\n.titulosBlanco{\n\tcolor:white;\n}\n\n#contenedorEtiquetaPestanas{\n\n\twidth: 700px;\n\t/*background-color: tomato;*/\n\tmargin-left: auto;\n\tmargin-right: auto;\n\toverflow:hidden;\n\tmargin-top: 50px;\n}\n\n.etiquetaPestanas{\n\n\twidth: 33.33%;\n\tfont-size: 2rem;\n\tcolor:white;\n\tfloat: left;\n\ttext-align: center;\n\tfont-family: 'Roboto', sans-serif;\n\tfont-size: 2rem;\n\n}\n\n.pestanaActiva{\n\tcolor: #FF5200;\n\ttext-decoration: underline;\n}\n#contenedorPestana{\n\n\tmargin-top: 40px;\n\twidth: 1275px;\n\theight: 800px;\n\t/*background-color: lightgreen;*/\n\tmargin-left: auto;\n\tmargin-right: auto;\n\toverflow: hidden;\n}\n\n.plato {\n\n\twidth: calc(33.33% - 75px);\n\theight: calc(50% - 75px);\n\t/*background-color: brown;*/\n\t/*border-style: solid;*/\n\tfloat: left;\n\tmargin-right: 37.5px;\n\tmargin-left: 37.5px;\n\tmargin-top: 37.5px;\n\tmargin-bottom: 37.5px;\n\n}\n\n.imagenPlato{\n\twidth: 100%;\n\theight: 250px;\n\tbackground-color: lightgrey;\n}\n\n.nombrePlato {\n\n\ttext-align: center;\n\tcolor: white;\n\tmargin-top: 12px;\n\tfont-family: 'Roboto', sans-serif;\n\tfont-size: 1.25rem;\n}\n\n.precio {\n\ttext-align: center;\n\tcolor:#FF5200;\n\tmargin-top: 12px;\n\tfont-family: 'Roboto', sans-serif;\n\tfont-size: 1.25rem;\n\n}\n\n#galeria {\n\n\twidth: 100%;\n\theight: 950px;\n\tbackground-color: #FEE2B3;\n\toverflow: hidden;\n}\n\n#contenedorGaleria{\n\twidth: 1210px;\n\theight: 525px;\n\t/*background-color: lightblue;*/\n\tmargin-top: 95px;\n\tmargin-left: auto;\n\tmargin-right: auto;\n}\n\n.imgGal {\n\twidth: calc(25% - 10px);\n\theight: calc(33.33% - 10px);\n\tbackground-color: grey;\n\t/*border-style: solid;*/\n\tfloat: left;\n\tmargin: 5px;\n\n}\n\n#contacto{\n\n\twidth: 100%;\n\theight: 950px;\n\tbackground-color: black;\n\toverflow: hidden;\n}\n\n#contenedorContacto {\n\twidth: 1200px;\n\theight: 600px;\n\t/*background-color: lightgreen;*/\n\tmargin-right: auto;\n\tmargin-left: auto;\n\tmargin-top: 95px;\n\toverflow: hidden;\n\n}\n\n#map {\n\tfloat: left;\n}\n\n\n#textoReservas {\n\tfont-family: 'Roboto', sans-serif;\n\tfont-size: 1.5rem;\n\tcolor: white;\n}\n\n\n#formu {\n\twidth: 50%;\n\theight: 525px;\n\t/*background-color: pink;*/\n\tfloat: left;\n\tpadding-top: 25px;\n\tpadding-left: 60px;\n}\n\ninput {\n\tdisplay: block;\n\theight: 40px;\n\tmargin-top: 25px;\n\tpadding-left: 10px;\n\twidth: 525px;\n\tfont-family: 'Roboto', sans-serif;\n\tfont-size: 1.15rem;\n}\n\n#botonEnviar{\n\n\twidth: 150px;\n\tborder-style: none;\n\tbackground-color: #FF5200;\n\tpadding: 5px;\n\tfont-family: 'Roboto', sans-serif;\n\tfont-size: 1.5rem;\n\n}\n\n#pie {\n\n\twidth: 100%;\n\theight: 100px;\n\tbackground-color: grey;\n}",
+			"file": "CSS/Style.css",
+			"file_size": 4970,
+			"file_write_time": 132586005350000000,
+			"settings":
+			{
+				"buffer_size": 4522,
+				"line_ending": "Windows"
+			},
+			"undo_stack":
+			[
+				[
+					7,
+					2,
+					"right_delete",
+					null,
+					"AgAAAO4BAAAAAAAA7gEAAAAAAAABAAAACu4BAAAAAAAA7gEAAAAAAAABAAAACg",
+					"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AQAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAPgKAAAAAAAA/QoAAAAAAAAAAAAAAADwvwEAAAABAAAA7gEAAAAAAADuAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					10,
+					1,
+					"run_macro_file",
+					{
+						"file": "res://Packages/Default/Delete to Hard EOL.sublime-macro"
+					},
+					"AQAAABgBAAAAAAAAGAEAAAAAAAAbAAAALypiYWNrZ3JvdW5kLWNvbG9yOiBwaW5rOyov",
+					"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AQAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAPYKAAAAAAAA+woAAAAAAAAAAAAAAADwvwEAAAABAAAAGAEAAAAAAAAYAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					11,
+					2,
+					"right_delete",
+					null,
+					"AgAAABgBAAAAAAAAGAEAAAAAAAABAAAAChgBAAAAAAAAGAEAAAAAAAABAAAACQ",
+					"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AQAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAANsKAAAAAAAA4AoAAAAAAAAAAAAAAADwvwEAAAABAAAAGAEAAAAAAAAYAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					14,
+					1,
+					"right_delete",
+					null,
+					"AQAAAKgAAAAAAAAAqAAAAAAAAABMAAAALyphcXXDrSBlbXBpZXphIGVsIG1lbsO6LgpFc3RvIHNlIGV4cGxpY2EgZW4gbGEgY29uZmVyZW5jaWEgVUYxQiBkZWwgMTAvMDMqLw",
+					"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AQAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAANkKAAAAAAAA3goAAAAAAAAAAAAAAADwvwEAAAABAAAA8gAAAAAAAACoAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					16,
+					2,
+					"right_delete",
+					null,
+					"AgAAAKYAAAAAAAAApgAAAAAAAAABAAAACqYAAAAAAAAApgAAAAAAAAABAAAACg",
+					"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AQAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAI8KAAAAAAAAlAoAAAAAAAAAAAAAAADwvwEAAAABAAAApgAAAAAAAACmAAAAAAAAAAAAAAAAAAAA"
+				],
+				[
+					19,
+					1,
+					"right_delete",
+					null,
+					"AQAAAGUAAAAAAAAAZQAAAAAAAAABAAAACg",
+					"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AQAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAI0KAAAAAAAAkgoAAAAAAAAAAAAAAADwvwEAAAABAAAAZQAAAAAAAABlAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					22,
+					1,
+					"right_delete",
+					null,
+					"AQAAAKUAAAAAAAAApQAAAAAAAAABAAAACg",
+					"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AQAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAIwKAAAAAAAAkQoAAAAAAAAAAAAAAADwvwEAAAABAAAApQAAAAAAAAClAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					25,
+					1,
+					"right_delete",
+					null,
+					"AQAAAKIAAAAAAAAAogAAAAAAAAABAAAACQ",
+					"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AQAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAIsKAAAAAAAAkAoAAAAAAAAAAAAAAADwvwEAAAABAAAAogAAAAAAAACiAAAAAAAAAAAAAAAAAAAA"
+				],
+				[
+					28,
+					1,
+					"right_delete",
+					null,
+					"AQAAAIQBAAAAAAAAhAEAAAAAAAABAAAACg",
+					"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AQAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAIoKAAAAAAAAjwoAAAAAAAAAAAAAAADwvwEAAAABAAAAhAEAAAAAAACEAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					33,
+					1,
+					"right_delete",
+					null,
+					"AQAAAOsBAAAAAAAA6wEAAAAAAAABAAAACg",
+					"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AQAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAIkKAAAAAAAAjgoAAAAAAAAAAAAAAADwvwEAAAABAAAA6wEAAAAAAADrAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					36,
+					1,
+					"right_delete",
+					null,
+					"AQAAAFECAAAAAAAAUQIAAAAAAAABAAAACg",
+					"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AQAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAIgKAAAAAAAAjQoAAAAAAAAAAAAAAADwvwEAAAABAAAAUQIAAAAAAABRAgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					41,
+					2,
+					"right_delete",
+					null,
+					"AgAAANcCAAAAAAAA1wIAAAAAAAABAAAACtcCAAAAAAAA1wIAAAAAAAABAAAACg",
+					"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AQAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAIcKAAAAAAAAjAoAAAAAAAAAAAAAAADwvwEAAAABAAAA1wIAAAAAAADXAgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					42,
+					1,
+					"right_delete",
+					null,
+					"AQAAANcCAAAAAAAA1wIAAAAAAAABAAAACg",
+					"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AQAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAIUKAAAAAAAAigoAAAAAAAAAAAAAAADwvwEAAAABAAAA1wIAAAAAAADXAgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					45,
+					1,
+					"right_delete",
+					null,
+					"AQAAAMwDAAAAAAAAzAMAAAAAAAABAAAACg",
+					"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AQAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAIQKAAAAAAAAiQoAAAAAAAAAAAAAAADwvwEAAAABAAAAzAMAAAAAAADMAwAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"liv",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"li",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"l",
+				"LiveReload: Help"
+			],
+			[
+				"Snippet: ",
+				"Snippet: CLASSAuto"
+			],
+			[
+				"b",
+				"Browse Mode: FileBrowser Left, Outline Right"
+			],
+			[
+				"out",
+				"Browse Mode: Outline (Right)"
+			],
+			[
+				"br",
+				"Browse Mode: Outline (Right)"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"LiveReload: Enable/disable plugins",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"live",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"ena",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"css",
+				"CSS Completions: Delete Cache"
+			],
+			[
+				"c",
+				"CSS Completions: Delete Cache"
+			],
+			[
+				"css com",
+				"CSS Completions: Prune Cache"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Remove Package"
+			],
+			[
+				"fi",
+				"Rename File"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 220.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/PeranoiaM2/Nuvols/Dropbox/03Feines/IFP 2020-21/2on semestre/DIW/Materiales/UF1/Proyecto/Nostromo web",
+		"/C/PeranoiaM2/Nuvols/Dropbox/03Feines/IFP 2020-21/2on semestre/DIW/Materiales/UF1/Proyecto/Nostromo web/CSS"
+	],
+	"file_history":
+	[
+		"/C/Peranoia7/Nuvols/Dropbox/03Feines/IFP 2020-21/2on semestre/DIW/Evaluacion/Entregas/UF1/Eduardo De la Cruz/actividad-uf1/actividad-maquetacion/index.html",
+		"/C/Peranoia7/Nuvols/Dropbox/03Feines/IFP 2020-21/2on semestre/DIW/Evaluacion/Entregas/UF1/Eduardo De la Cruz/actividad-uf1/actividad-maquetacion/css/style.css",
+		"/C/Peranoia7/Nuvols/Dropbox/03Feines/IFP 2020-21/2on semestre/DIW/Evaluacion/Entregas/UF1/German Heinz/DIW_UF1_Heinz_German/DIW_UF1_Heinz_German/FutbolES/CSS/Style.css",
+		"/C/Peranoia7/Nuvols/Dropbox/03Feines/IFP 2020-21/2on semestre/DIW/Evaluacion/Entregas/UF1/German Heinz/DIW_UF1_Heinz_German/DIW_UF1_Heinz_German/FutbolES/Index.html",
+		"/C/Peranoia7/Nuvols/Dropbox/03Feines/IFP 2020-21/2on semestre/DIW/Evaluacion/Entregas/UF1/José Manuel Calvete/UF1-ProjectLollypopJosecParrilla/UF1-ProjectLollypopJosecParrilla/lollypopApp/style.css",
+		"/C/Peranoia7/Nuvols/Dropbox/03Feines/IFP 2020-21/2on semestre/DIW/Evaluacion/Entregas/UF1/José Manuel Calvete/UF1-ProjectLollypopJosecParrilla/UF1-ProjectLollypopJosecParrilla/lollypopApp/index.html",
+		"/C/Peranoia7/Nuvols/Dropbox/03Feines/IFP 2020-21/2on semestre/DIW/Evaluacion/Entregas/UF1/Pol Aguilar/Actividad UF1_PolAguilar/Actividad UF1_PolAguilar/Web_Logistics_UF1_PolAguilar/CSS/cssglobal.css",
+		"/C/Peranoia7/Nuvols/Dropbox/03Feines/IFP 2020-21/2on semestre/DIW/Evaluacion/Entregas/UF1/Pol Aguilar/Actividad UF1_PolAguilar/Actividad UF1_PolAguilar/Web_Logistics_UF1_PolAguilar/index.html",
+		"/C/Peranoia7/Nuvols/Dropbox/03Feines/IFP 2020-21/2on semestre/DIW/Materiales/UF2/web tema 3/Nostromo web UF2/CSS/Style.css",
+		"/C/Peranoia7/Nuvols/Dropbox/03Feines/IFP 2020-21/2on semestre/DIW/Materiales/UF2/web tema 3/Nostromo web UF2/Index.html",
+		"/C/Users/Usuario/Desktop/cinta/JS/script.js",
+		"/C/Users/Usuario/Desktop/cinta/CSS/Style.css",
+		"/C/Users/Usuario/Desktop/cinta/Index.html",
+		"/C/Peranoia7/Nuvols/Dropbox/03Feines/IFP 2020-21/2on semestre/DIW/Materiales/UF2/web tema 3/Nostromo web UF2/JS/Scripts.js",
+		"/C/Users/Usuario/AppData/Roaming/Sublime Text 3/Packages/JavaScript Completions/Default (Windows).sublime-keymap",
+		"/C/Users/Usuario/Desktop/anim/CSS/style.css",
+		"/C/Peranoia7/Nuvols/Dropbox/03Feines/IFP 2020-21/2on semestre/DIW/Materiales/UF2/Nostromo web UF2 - master/CSS/Style.css",
+		"/C/Peranoia7/Nuvols/Dropbox/03Feines/IFP 2020-21/2on semestre/DIW/Materiales/UF2/Nostromo web UF2 - master/Index.html",
+		"/C/Peranoia7/Nuvols/Dropbox/03Feines/Llotja 2019-20/CFGS_GI/GI_ Projectes_II/05_Compartit_Alumnes_ProjectesII/03_Materials/UF4/Exercicis_UP1/JS/Exercici95.js",
+		"/C/Peranoia7/Nuvols/Dropbox/03Feines/Llotja 2019-20/CFGS_GI/GI_ Projectes_II/05_Compartit_Alumnes_ProjectesII/03_Materials/UF4/Exercicis_UP1/CSS/Estil_E95.css",
+		"/C/Peranoia7/Nuvols/Dropbox/03Feines/Llotja 2019-20/CFGS_GI/GI_ Projectes_II/05_Compartit_Alumnes_ProjectesII/03_Materials/UF4/Exercicis_UP1/Exercici95.html",
+		"/C/Users/Usuario/Desktop/Nostromo web/CSS/Style.css",
+		"/C/Users/Usuario/Desktop/Nostromo web/Index.html",
+		"/C/Users/Usuario/Desktop/Nostromo web/info.html",
+		"/C/Users/Usuario/Desktop/projecte_test/test.sublime-project",
+		"/C/Users/Usuario/Desktop/help prova/test1/Inicio.htm",
+		"/C/Users/Usuario/Desktop/help prova/test1/style.css",
+		"/C/Users/Usuario/Desktop/screenWidthScale/Index.html",
+		"/C/Users/Usuario/Downloads/tombigel-detect-zoom-v1.0.4-14-gc9924de/tombigel-detect-zoom-c9924de/detect-zoom.js",
+		"/C/Peranoia7/Nuvols/Dropbox/03Feines/Llotja 2019-20/CFGM_APGI/EdicioWeb/04_Avaluació/Entregues/UF3/T3/Cesar Fuente Martínez - FuenteCesar_EW_UF3_T3/FuenteCesar_EW_UF3_T3/Projecte/Tomorrowland web/index.html",
+		"/C/Users/Usuario/Desktop/php tests/index.php",
+		"/C/Users/Usuario/Downloads/Judith/Tomorrowland/assets/css/camisetas.css",
+		"/C/Users/Usuario/Downloads/Judith/Tomorrowland/camisetas.html",
+		"/C/Users/Usuario/Desktop/layout script/base.js",
+		"/C/Users/Usuario/AppData/Roaming/Sublime Text 3/Packages/User/consoleLog.sublime-snippet",
+		"/C/Users/Usuario/Desktop/layout script/exemple.html",
+		"/C/Users/Usuario/Desktop/layout script/base.html",
+		"/C/Users/Usuario/Desktop/layout script/CSS/exemple.css",
+		"/C/Users/Usuario/Downloads/banner(importante).html",
+		"/C/Users/Usuario/Downloads/Judith/Tomorrowland/festival.html",
+		"/C/Users/Usuario/Downloads/kpop go! 8_05/kpop go!-web/js/02_actividades.js",
+		"/C/Users/Usuario/Desktop/fatu horizontalold/Fatu base/JS/ParallaxMaster3.js",
+		"/C/Users/Usuario/Desktop/Parallax_scroll/ParallaxManual5.js",
+		"/C/Users/Usuario/Desktop/Parallax_scroll/ParallaxManual2.html",
+		"/C/Users/Usuario/Desktop/Parallax_scroll/ParallaxMaster.js",
+		"/C/Users/Usuario/Desktop/Parallax_scroll/ParallaxManual.html",
+		"/C/Users/Usuario/Desktop/Parallax senzill/estil2.css",
+		"/C/Users/Usuario/Desktop/Parallax senzill/Index2.html",
+		"/C/Users/Usuario/Desktop/Parallax_scroll/ParallaxManual5.css",
+		"/C/Users/Usuario/Desktop/Parallax_scroll/INTOBS.html",
+		"/C/Users/Usuario/Desktop/Parallax_scroll/ParallaxManual4.html",
+		"/C/Users/Usuario/Desktop/Parallax_scroll/ParallaxManual4.css",
+		"/C/Users/Usuario/Desktop/Parallax_scroll/SnapScroll.css",
+		"/C/Users/Usuario/Desktop/Parallax_scroll/SnapScroll2.css",
+		"/C/Users/Usuario/Desktop/Parallax_scroll/SnapScroll3.css",
+		"/C/Users/Usuario/Desktop/Parallax_scroll/SnapScroll2.html",
+		"/C/Users/Usuario/Desktop/Parallax_scroll/SnapScroll3.html",
+		"/C/Users/Usuario/Desktop/Parallax_scroll/SnapScroll.html",
+		"/C/Users/Usuario/Desktop/Parallax_scroll/SnapScroll2.js",
+		"/C/Users/Usuario/Desktop/fatu horizontal/styles.css",
+		"/C/Users/Usuario/Desktop/fatu horizontal/index.html",
+		"/C/Users/Usuario/Downloads/kpop go! 21_04/kpop go!-web/00_index.html",
+		"/C/Users/Usuario/Downloads/kpop go! 21_04/kpop go!-web/js/00_index.js",
+		"/C/Users/Usuario/Downloads/kpop go! 21_04/kpop go!-web/css/00_index.css",
+		"/C/Peranoia7/Nuvols/Dropbox/03Feines/Llotja 2019-20/CFGS_GI/GI_ Projectes_II/03_Materials/UF4/WebSpotifyAlumnes/CSS/Style.css",
+		"/C/Peranoia7/Nuvols/Dropbox/03Feines/Llotja 2019-20/CFGS_GI/GI_ Projectes_II/03_Materials/UF4/WebSpotify/CSS/Style.css",
+		"/C/Users/Usuario/AppData/Roaming/Sublime Text 3/Packages/User/CLASSAuto.sublime-snippet",
+		"/C/Users/Usuario/AppData/Roaming/Sublime Text 3/Packages/User/IDAuto.sublime-snippet",
+		"/C/Users/Usuario/AppData/Roaming/Sublime Text 3/Packages/User/IDCLASSES.sublime-snippet",
+		"/C/Users/Usuario/Desktop/tags.html",
+		"/C/Peranoia7/Nuvols/Dropbox/03Feines/Llotja 2019-20/CFGS_GI/GI_ Projectes_II/04_Avaluació/Entregues/Treball2/Laura Romero - RomeroLaura_ProjectesII_Treball02Prova/RomeroLaura_ProjectesII_Treball02Prova/index.html",
+		"/C/Peranoia7/Nuvols/Dropbox/03Feines/Llotja 2019-20/CFGS_GI/GI_ Projectes_II/04_Avaluació/Entregues/Treball2/Laura Romero - RomeroLaura_ProjectesII_Treball02Prova/RomeroLaura_ProjectesII_Treball02Prova/css/style.css",
+		"/C/Peranoia7/Nuvols/Dropbox/03Feines/Llotja 2019-20/CFGS_GI/GI_ Projectes_II/04_Avaluació/Entregues/Treball2/Laura Romero - RomeroLaura_ProjectesII_Treball02Prova/RomeroLaura_ProjectesII_Treball02Prova/js/javascript.js",
+		"/C/Peranoia7/Nuvols/Dropbox/03Feines/Llotja 2019-20/CFGS_GI/GI_ Projectes_II/05_Compartit_Alumnes_ProjectesII/03_Materials/UF4/Exercicis_UP1/Exercici101.html",
+		"/C/Peranoia7/Nuvols/Dropbox/03Feines/Llotja 2019-20/CFGS_GI/GI_ Projectes_II/05_Compartit_Alumnes_ProjectesII/03_Materials/UF4/Exercicis_UP1/CSS/Estil_E101.css",
+		"/C/Peranoia7/Nuvols/Dropbox/03Feines/Llotja 2019-20/CFGS_GI/GI_ Projectes_II/05_Compartit_Alumnes_ProjectesII/03_Materials/UF4/Exercicis_UP1/CSS/Estil_E102.css",
+		"/C/Peranoia7/Nuvols/Dropbox/03Feines/Llotja 2019-20/CFGS_GI/GI_ Projectes_II/05_Compartit_Alumnes_ProjectesII/03_Materials/UF4/Exercicis_UP1/Exercici102.html",
+		"/C/Peranoia7/Nuvols/Dropbox/03Feines/Llotja 2019-20/CFGS_GI/GI_ Projectes_II/05_Compartit_Alumnes_ProjectesII/03_Materials/UF4/Exercicis_UP1/Exercici99.html",
+		"/C/Peranoia7/Nuvols/Dropbox/03Feines/Llotja 2019-20/CFGS_GI/GI_ Projectes_II/05_Compartit_Alumnes_ProjectesII/03_Materials/UF4/Exercicis_UP1/CSS/Estil_E99.css",
+		"/C/Peranoia7/Nuvols/Dropbox/03Feines/Llotja 2019-20/CFGS_GI/GI_ Projectes_II/03_Materials/UF2/ExercicisUP3_JS/JS/Exercici87.js",
+		"/C/Users/Usuario/Downloads/WEB (1)/WEB/assets/css/style.css",
+		"/C/Users/Usuario/Downloads/WEB (1)/WEB/index plantilla.html",
+		"/C/Users/Usuario/Desktop/fatu horizontal/anim/aos2.js",
+		"/C/Peranoia7/Nuvols/Dropbox/03Feines/Llotja 2019-20/CFGS_GI/GI_ Projectes_II/04_Avaluació/Entregues/Treball2/Desirée Navarro - NavarroDesiree_ProjectesII_UF2_T2/NavarroDesiree_ProjectesII_UF2_T2/css/bootstrap.css",
+		"/C/Peranoia7/Nuvols/Dropbox/03Feines/Llotja 2019-20/CFGS_GI/GI_ Projectes_II/04_Avaluació/Entregues/Treball2/Desirée Navarro - NavarroDesiree_ProjectesII_UF2_T2/NavarroDesiree_ProjectesII_UF2_T2/css/mystyle.css",
+		"/C/Users/Usuario/Downloads/WEB (1)/WEB/CSS/Estil.css",
+		"/C/Users/Usuario/Downloads/WEB (1)/WEB/index.html",
+		"/C/Users/Usuario/Downloads/Tomorrowalnd/Tomorrowalnd/Historia.html",
+		"/C/Users/Usuario/Downloads/Tomorrowalnd/Tomorrowalnd/assets/css/style.css",
+		"/C/Peranoia7/Nuvols/Dropbox/03Feines/Llotja 2019-20/CFGS_GI/GI_ Projectes_II/03_Materials/UF4/Exercicis_UP1/Exercici94.html",
+		"/C/Users/Usuario/Desktop/ejemplo responsive/script.js",
+		"/C/Users/Usuario/Desktop/DubtePaola2/estil.css",
+		"/C/Users/Usuario/Desktop/DubtePaola2/Index2.html",
+		"/C/Users/Usuario/Desktop/DubtePaola2/Index3.html",
+		"/C/Users/Usuario/Desktop/DubtePaola2/estil2.css",
+		"/C/Peranoia7/Nuvols/Dropbox/03Feines/Llotja 2019-20/CFGS_GI/GI_ Projectes_II/03_Materials/UF4/Exercicis_UP1/JS/Exercici97.js",
+		"/C/Peranoia7/Nuvols/Dropbox/03Feines/Llotja 2019-20/CFGS_GI/GI_ Projectes_II/03_Materials/UF4/Exercicis_UP1/CSS/Estil_E97.css",
+		"/C/Peranoia7/Nuvols/Dropbox/03Feines/Llotja 2019-20/CFGS_GI/GI_ Projectes_II/03_Materials/UF4/Exercicis_UP1/Exercici97.html",
+		"/C/Peranoia7/Nuvols/Dropbox/03Feines/Llotja 2019-20/CFGS_GI/GI_ Projectes_II/03_Materials/UF4/Exercicis_UP1/JS/test.js",
+		"/C/Peranoia7/Nuvols/Dropbox/03Feines/Llotja 2019-20/CFGS_GI/GI_ Projectes_II/03_Materials/UF4/Exercicis_UP1/JS/Exercici95.js",
+		"/C/Users/Usuario/AppData/Roaming/Sublime Text 3/Packages/User/JavaScript-Completions.sublime-settings",
+		"/C/Users/Usuario/AppData/Roaming/Sublime Text 3/Packages/JavaScript Completions/JavaScript-Completions.sublime-settings",
+		"/C/Peranoia7/Nuvols/Dropbox/03Feines/Llotja 2019-20/CFGS_GI/GI_ Projectes_II/03_Materials/UF4/Exercicis_UP1/Exercici95.html",
+		"/C/Users/Usuario/AppData/Roaming/Sublime Text 3/Packages/User/css_style_completions.sublime-settings",
+		"/C/Users/Usuario/AppData/Roaming/Sublime Text 3/Packages/CSS Extended Completions/css_style_completions.sublime-settings",
+		"/C/Peranoia7/Nuvols/Dropbox/03Feines/Llotja 2019-20/CFGS_GI/GI_ Projectes_II/04_Avaluació/UF2/Entregues/Treball1/UF2_Treball01_Gomez_Marc/UF2_Treball01_Gomez_Marc/css/animate.css",
+		"/C/Peranoia7/Nuvols/Dropbox/03Feines/Llotja 2019-20/CFGS_GI/GI_ Projectes_II/03_Materials/UF4/Exercicis_UP1/JS/Exercici93.js",
+		"/C/Peranoia7/Nuvols/Dropbox/03Feines/Llotja 2019-20/CFGS_GI/GI_ Projectes_II/03_Materials/UF4/Exercicis_UP1/CSS/Estil_E93.css",
+		"/C/Peranoia7/Nuvols/Dropbox/03Feines/Llotja 2019-20/CFGS_GI/GI_ Projectes_II/03_Materials/UF4/Exercicis_UP1/Exercici93.html",
+		"/C/Peranoia7/Nuvols/Dropbox/03Feines/Llotja 2019-20/CFGS_GI/GI_ Projectes_II/04_Avaluació/UF2/Entregues/Treball1/Luis Mendoza - trabajo2_luis_mendoza/trabajo2_luis_mendoza/cabecera.html",
+		"/C/Peranoia7/Nuvols/Dropbox/03Feines/Llotja 2019-20/CFGM_APGI/EdicioWeb/03_Materials/UF3/UP3 Bootstrap/Bootstrap restaurant/carta2.html",
+		"/C/Peranoia7/Nuvols/Dropbox/03Feines/Llotja 2019-20/CFGS_GI/GI_ Projectes_II/04_Avaluació/UF2/Entregues/Treball1/Desirée Navarro - NavarroDesiree_PRJII_UF2_T1/webalexa v5/index.html",
+		"/C/Users/Usuario/Desktop/ProjectesII_treball01_GómezJennifer/ProjectesII_treball01_GómezJennifer/css/estil.css",
+		"/C/Users/Usuario/Desktop/ProjectesII_treball01_GómezJennifer/ProjectesII_treball01_GómezJennifer/index.html"
+	],
+	"find":
+	{
+		"height": 48.0
+	},
+	"find_in_files":
+	{
+		"height": 160.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "Index.html",
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4626,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								583,
+								583
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 340.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "CSS/Style.css",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 4522,
+						"regions":
+						{
+							"col_00000091":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										930,
+										946
+									],
+									[
+										1176,
+										1192
+									]
+								],
+								"scope": "col_00000091"
+							},
+							"col_00000091_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_00000091_circle.png",
+								"regions":
+								[
+									[
+										904,
+										904
+									],
+									[
+										1150,
+										1150
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_000000FF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										2076,
+										2081
+									],
+									[
+										3706,
+										3711
+									]
+								],
+								"scope": "col_000000FF"
+							},
+							"col_000000FF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_000000FF_circle.png",
+								"regions":
+								[
+									[
+										2057,
+										2057
+									],
+									[
+										3687,
+										3687
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_808000FF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										1037,
+										1042
+									],
+									[
+										1456,
+										1461
+									]
+								],
+								"scope": "col_808000FF"
+							},
+							"col_808000FF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_808000FF_circle.png",
+								"regions":
+								[
+									[
+										1016,
+										1016
+									],
+									[
+										1435,
+										1435
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_808080FF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										309,
+										313
+									],
+									[
+										3581,
+										3585
+									],
+									[
+										4515,
+										4519
+									]
+								],
+								"scope": "col_808080FF"
+							},
+							"col_808080FF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_808080FF_circle.png",
+								"regions":
+								[
+									[
+										290,
+										290
+									],
+									[
+										3562,
+										3562
+									],
+									[
+										4496,
+										4496
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_90EE90FF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										2613,
+										2623
+									],
+									[
+										3810,
+										3820
+									]
+								],
+								"scope": "col_90EE90FF"
+							},
+							"col_90EE90FF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_90EE90FF_circle.png",
+								"regions":
+								[
+									[
+										2592,
+										2592
+									],
+									[
+										3789,
+										3789
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_A52A2AFF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										2777,
+										2782
+									]
+								],
+								"scope": "col_A52A2AFF"
+							},
+							"col_A52A2AFF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_A52A2AFF_circle.png",
+								"regions":
+								[
+									[
+										2756,
+										2756
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_ADD8E6FF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										1849,
+										1858
+									],
+									[
+										3420,
+										3429
+									]
+								],
+								"scope": "col_ADD8E6FF"
+							},
+							"col_ADD8E6FF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_ADD8E6FF_circle.png",
+								"regions":
+								[
+									[
+										1830,
+										1830
+									],
+									[
+										3399,
+										3399
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_D3D3D3FF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										151,
+										160
+									],
+									[
+										2983,
+										2992
+									]
+								],
+								"scope": "col_D3D3D3FF"
+							},
+							"col_D3D3D3FF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_D3D3D3FF_circle.png",
+								"regions":
+								[
+									[
+										132,
+										132
+									],
+									[
+										2964,
+										2964
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_FEE2B3FF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										1312,
+										1319
+									],
+									[
+										3316,
+										3323
+									]
+								],
+								"scope": "col_FEE2B3FF"
+							},
+							"col_FEE2B3FF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_FEE2B3FF_circle.png",
+								"regions":
+								[
+									[
+										1293,
+										1293
+									],
+									[
+										3297,
+										3297
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_FF5200FF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										2480,
+										2487
+									],
+									[
+										3166,
+										3173
+									],
+									[
+										4374,
+										4381
+									]
+								],
+								"scope": "col_FF5200FF"
+							},
+							"col_FF5200FF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_FF5200FF_circle.png",
+								"regions":
+								[
+									[
+										2472,
+										2472
+									],
+									[
+										3159,
+										3159
+									],
+									[
+										4355,
+										4355
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_FF6347FF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										2204,
+										2210
+									]
+								],
+								"scope": "col_FF6347FF"
+							},
+							"col_FF6347FF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_FF6347FF_circle.png",
+								"regions":
+								[
+									[
+										2183,
+										2183
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_FFA500FF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										790,
+										796
+									],
+									[
+										1736,
+										1742
+									]
+								],
+								"scope": "col_FFA500FF"
+							},
+							"col_FFA500FF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_FFA500FF_circle.png",
+								"regions":
+								[
+									[
+										769,
+										769
+									],
+									[
+										1715,
+										1715
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_FFC0CBFF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										201,
+										201
+									],
+									[
+										4083,
+										4087
+									]
+								],
+								"scope": "col_FFC0CBFF"
+							},
+							"col_FFC0CBFF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_FFC0CBFF_circle.png",
+								"regions":
+								[
+									[
+										200,
+										200
+									],
+									[
+										4062,
+										4062
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_FFFF00FF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										560,
+										566
+									],
+									[
+										1623,
+										1629
+									]
+								],
+								"scope": "col_FFFF00FF"
+							},
+							"col_FFFF00FF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_FFFF00FF_circle.png",
+								"regions":
+								[
+									[
+										539,
+										539
+									],
+									[
+										1602,
+										1602
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_FFFFFFFF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										655,
+										660
+									],
+									[
+										897,
+										902
+									],
+									[
+										1143,
+										1148
+									],
+									[
+										2128,
+										2133
+									],
+									[
+										2356,
+										2361
+									],
+									[
+										3042,
+										3047
+									],
+									[
+										4013,
+										4018
+									]
+								],
+								"scope": "col_FFFFFFFF"
+							},
+							"col_FFFFFFFF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_FFFFFFFF_circle.png",
+								"regions":
+								[
+									[
+										647,
+										647
+									],
+									[
+										889,
+										889
+									],
+									[
+										1135,
+										1135
+									],
+									[
+										2121,
+										2121
+									],
+									[
+										2349,
+										2349
+									],
+									[
+										3034,
+										3034
+									],
+									[
+										4005,
+										4005
+									]
+								],
+								"scope": "col_gutter"
+							}
+						},
+						"selection":
+						[
+							[
+								2691,
+								2696
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 4011.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"sheets":
+			[
+				{
+					"buffer": 1,
+					"file": "CSS/Style.css",
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4522,
+						"regions":
+						{
+							"col_00000091":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										930,
+										946
+									],
+									[
+										1176,
+										1192
+									]
+								],
+								"scope": "col_00000091"
+							},
+							"col_00000091_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_00000091_circle.png",
+								"regions":
+								[
+									[
+										904,
+										904
+									],
+									[
+										1150,
+										1150
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_000000FF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										2076,
+										2081
+									],
+									[
+										3706,
+										3711
+									]
+								],
+								"scope": "col_000000FF"
+							},
+							"col_000000FF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_000000FF_circle.png",
+								"regions":
+								[
+									[
+										2057,
+										2057
+									],
+									[
+										3687,
+										3687
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_808000FF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										1037,
+										1042
+									],
+									[
+										1456,
+										1461
+									]
+								],
+								"scope": "col_808000FF"
+							},
+							"col_808000FF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_808000FF_circle.png",
+								"regions":
+								[
+									[
+										1016,
+										1016
+									],
+									[
+										1435,
+										1435
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_808080FF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										309,
+										313
+									],
+									[
+										3581,
+										3585
+									],
+									[
+										4515,
+										4519
+									]
+								],
+								"scope": "col_808080FF"
+							},
+							"col_808080FF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_808080FF_circle.png",
+								"regions":
+								[
+									[
+										290,
+										290
+									],
+									[
+										3562,
+										3562
+									],
+									[
+										4496,
+										4496
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_90EE90FF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										2613,
+										2623
+									],
+									[
+										3810,
+										3820
+									]
+								],
+								"scope": "col_90EE90FF"
+							},
+							"col_90EE90FF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_90EE90FF_circle.png",
+								"regions":
+								[
+									[
+										2592,
+										2592
+									],
+									[
+										3789,
+										3789
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_A52A2AFF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										2777,
+										2782
+									]
+								],
+								"scope": "col_A52A2AFF"
+							},
+							"col_A52A2AFF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_A52A2AFF_circle.png",
+								"regions":
+								[
+									[
+										2756,
+										2756
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_ADD8E6FF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										1849,
+										1858
+									],
+									[
+										3420,
+										3429
+									]
+								],
+								"scope": "col_ADD8E6FF"
+							},
+							"col_ADD8E6FF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_ADD8E6FF_circle.png",
+								"regions":
+								[
+									[
+										1830,
+										1830
+									],
+									[
+										3399,
+										3399
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_D3D3D3FF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										151,
+										160
+									],
+									[
+										2983,
+										2992
+									]
+								],
+								"scope": "col_D3D3D3FF"
+							},
+							"col_D3D3D3FF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_D3D3D3FF_circle.png",
+								"regions":
+								[
+									[
+										132,
+										132
+									],
+									[
+										2964,
+										2964
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_FEE2B3FF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										1312,
+										1319
+									],
+									[
+										3316,
+										3323
+									]
+								],
+								"scope": "col_FEE2B3FF"
+							},
+							"col_FEE2B3FF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_FEE2B3FF_circle.png",
+								"regions":
+								[
+									[
+										1293,
+										1293
+									],
+									[
+										3297,
+										3297
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_FF5200FF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										2480,
+										2487
+									],
+									[
+										3166,
+										3173
+									],
+									[
+										4374,
+										4381
+									]
+								],
+								"scope": "col_FF5200FF"
+							},
+							"col_FF5200FF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_FF5200FF_circle.png",
+								"regions":
+								[
+									[
+										2472,
+										2472
+									],
+									[
+										3159,
+										3159
+									],
+									[
+										4355,
+										4355
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_FF6347FF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										2204,
+										2210
+									]
+								],
+								"scope": "col_FF6347FF"
+							},
+							"col_FF6347FF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_FF6347FF_circle.png",
+								"regions":
+								[
+									[
+										2183,
+										2183
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_FFA500FF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										790,
+										796
+									],
+									[
+										1736,
+										1742
+									]
+								],
+								"scope": "col_FFA500FF"
+							},
+							"col_FFA500FF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_FFA500FF_circle.png",
+								"regions":
+								[
+									[
+										769,
+										769
+									],
+									[
+										1715,
+										1715
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_FFC0CBFF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										4083,
+										4087
+									]
+								],
+								"scope": "col_FFC0CBFF"
+							},
+							"col_FFC0CBFF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_FFC0CBFF_circle.png",
+								"regions":
+								[
+									[
+										4062,
+										4062
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_FFFF00FF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										560,
+										566
+									],
+									[
+										1623,
+										1629
+									]
+								],
+								"scope": "col_FFFF00FF"
+							},
+							"col_FFFF00FF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_FFFF00FF_circle.png",
+								"regions":
+								[
+									[
+										539,
+										539
+									],
+									[
+										1602,
+										1602
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_FFFFFFFF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										655,
+										660
+									],
+									[
+										897,
+										902
+									],
+									[
+										1143,
+										1148
+									],
+									[
+										2128,
+										2133
+									],
+									[
+										2356,
+										2361
+									],
+									[
+										3042,
+										3047
+									],
+									[
+										4013,
+										4018
+									]
+								],
+								"scope": "col_FFFFFFFF"
+							},
+							"col_FFFFFFFF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_FFFFFFFF_circle.png",
+								"regions":
+								[
+									[
+										647,
+										647
+									],
+									[
+										889,
+										889
+									],
+									[
+										1135,
+										1135
+									],
+									[
+										2121,
+										2121
+									],
+									[
+										2349,
+										2349
+									],
+									[
+										3034,
+										3034
+									],
+									[
+										4005,
+										4005
+									]
+								],
+								"scope": "col_gutter"
+							}
+						},
+						"selection":
+						[
+							[
+								538,
+								538
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 180.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 36.0
+	},
+	"input":
+	{
+		"height": 56.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.5,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.CSS Extended Completions":
+	{
+		"height": 0.0
+	},
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 180.0
+	},
+	"pinned_build_system": "",
+	"project": "nostromo_UF1.sublime-project",
+	"replace":
+	{
+		"height": 68.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 197.0,
+		"last_filter": "s1",
+		"selected_items":
+		[
+			[
+				"s1",
+				"s10"
+			]
+		],
+		"width": 592.0
+	},
+	"selected_group": 1,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 231.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
