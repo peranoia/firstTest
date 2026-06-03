@@ -1,0 +1,116 @@
+
+/* Tablet */
+
+@media (max-width: 1024px) {
+    body {
+        background-color: #a1a3a4;
+    }
+
+    #containerCardsToSelect{
+        width: 100%;
+      
+    }
+
+    #containerCardsToMakeTrips{
+        width: 100%;
+      
+    }
+
+    .cardFrame{
+        height: 210px;
+        width: calc(20% - 10px);
+        margin: 5px;
+    }
+
+
+
+    .stationName {
+      font-size: 1.15rem;
+      height: 75px;
+      padding-top: 25px;
+    }
+
+    .lineText {
+      font-size: 1.25rem;
+      padding: 0px 2px;
+      margin: 2px 0px;
+    }
+
+#moreCardsModal{
+    bottom: 0px;
+    top: auto;
+}
+#exchangeTripsModal{
+    bottom: 0px;
+    top: auto;
+   
+}
+
+
+
+}
+/* Mobile */
+
+@media (max-width: 450px) {
+    body {
+        background-color: #dbb406;
+    }
+
+    #containerCardsToSelect{
+        width: 100%;
+      
+    }
+
+    #containerCardsToMakeTrips{
+        width: 100%;
+      
+    }
+
+    .cardFrame{
+        width: calc(20% - 4px);
+        height: 115px;
+        margin: 2px;
+    }
+
+
+    .stationName {
+      font-size: 0.6rem;
+      height: 50px;
+      padding-top: 5px;
+    }
+
+    .lineText {
+      font-size: 0.75rem;
+      
+      /* height: 40px; */
+      /* padding-top: 25px; */
+    }
+
+    #moreCardsModal{
+    bottom: 0px;
+    top: auto;
+    width: 150px;
+    }
+    #exchangeTripsModal{
+    bottom: 0px;
+    top: auto;
+    width: 200px;
+    }
+
+    #exchangeTripsModal h1 {
+      font-size: 1.25rem;
+    }
+    #moreCardsModal h1{
+      font-size: 1.25rem;
+    }
+    #moreCardsModal button {
+      padding: 20px;
+    }
+
+    #exchangeTripsModal button {
+      font-size: 0.75rem;
+      margin-bottom: 15px;
+      padding: 2px 10px;
+    }
+
+}

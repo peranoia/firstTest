@@ -1,0 +1,76 @@
+.linea1 {
+    background-color: #dd052c; /* Rojo L1 */
+}
+
+.linea2 {
+    background-color: #93278F; /* Lila L2 */
+}
+
+.linea3 {
+    background-color: #009540; /* Verde L3 */
+}
+
+.linea4 {
+    background-color: #FFD600; /* Amarillo L4 */
+    color: black;
+}
+
+.linea5 {
+    background-color: #0072BC; /* Azul L5 */
+}
+
+.linea6 {
+    background-color: #7775b5; /* Rosa L6 */
+}
+
+.linea7 {
+    background-color: #a04b09; /* Naranja L7 */
+}
+
+.linea8 {
+    background-color: #e796bf; /* Lila claro L8 */
+}
+
+.linea9 {
+    background-color: #F6A800; /* Amarillo oscuro L9 */
+}
+
+.linea10 {
+    background-color: #00aeef; /* Azul claro L10 */
+}
+
+.linea11 {
+    background-color: #a8d164; /*Verde Claro*/
+    color: black;
+}
+.linea12 {
+    background-color: #afaad3; /*Verde Claro*/
+    color: black;
+}
+
+.selectedCard {
+   color: red;
+}
+
+.selectedCardFrame {
+    border: 3px dashed #ffffff;
+    background: #000000;
+}
+
+.cardsAdyacentes1 {
+    box-shadow:  0 0 3px 10px rgba(197, 0, 0, 0.5);
+    /* color: red; */
+    
+}
+.cardsAdyacentes2 {
+    box-shadow: 0 0 3px 10px rgba(0, 0, 255, 0.5);
+}
+.cardsAdyacentes3 {
+    box-shadow: 0 0 3px 10px rgba(255, 0, 204, 0.5);
+}
+.cardsAdyacentes4 {
+    box-shadow: 0 0 3px 10px rgba(255, 221, 0, 0.5);
+}
+.cardsAdyacentes5 {
+    box-shadow: 0 0 3px 10px rgba(255, 0, 30, 0.5);
+}
